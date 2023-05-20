@@ -1,6 +1,7 @@
 # Weather Snap
 
-[![GitHub stars](https://img.shields.io/github/stars/sami3898/WeatherSnap.svg?style=social)](https://github.com/sami3898/WeatherSnap)
+[![GitHub stars](https://img.shields.io/github/stars/sami3898/WeatherSnap.svg?style=social)](https://github.com/sami3898/WeatherSnap)  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/samcode38)
+
 
 A minimal modern UI weather app developed using React Native Expo CLI. It allows users to fetch the current location or manually enter a city name to view the weather forecast. The app supports adding and removing multiple cities and provides hourly and 3-day forecast data. With its user-friendly UI and a drawer menu for easy navigation between different cities, Weather Snap makes checking the weather a breeze.
 
@@ -36,3 +37,4 @@ Contributions are welcome! Please feel free to open a pull request or submit an 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
