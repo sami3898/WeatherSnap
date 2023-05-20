@@ -27,7 +27,7 @@ A minimal modern UI weather app developed using React Native Expo CLI. It allows
 5. Use the Expo Go app on your mobile device to scan the QR code and open the app
 
 ## Screenshots
-![Weather Snap](https://github.com/sami3898/WeatherSnap/assets/32996863/efbb741c-e4e2-4f1c-80e7-e7076471f34a)
+![Weather Snap (1)](https://github.com/sami3898/WeatherSnap/assets/32996863/771ba18c-18ab-45bd-8c7a-cab5dfc13d28)
 
 ## Contributing
 
